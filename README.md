@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá 👋
 
 <!--
-**MariaJulia0710/MariaJulia0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MariaJulia0710/MariaJulia0710** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭Atualmente estou trabalhando em nada
+- 🌱 Atualmente estou aprendendo varias coisas 
+- 👯 Procuro colaborar em minha vida 
+- 🤔 Estou procurando ajuda com dança
+- 💬 Pergunte-me sobre oque eu faço
+- 📫 Como entrar em contato comigo pessoalmente 
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: nada
 -->
